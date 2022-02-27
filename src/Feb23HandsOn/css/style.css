@@ -1,0 +1,24 @@
+.col{
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  height: 80px;
+  background-color: #FFAEAE;
+}
+img{
+  background-color: #FFAEAE;
+  height: 60px;
+}
+
+
+#abc{
+  /* display: inline-block; */
+  height: 700px;
+  width: 700px;
+}
+
+#abc1{
+
+  height: 700px;
+  width: 700px;
+}
